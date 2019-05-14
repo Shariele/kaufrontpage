@@ -1,4 +1,4 @@
-This is a frontpage for use at Karlstad University. 
+This is a frontpage for use at Karlstad University. Kaulogo.jpg is owned by Karlstad University and the only usage is the placement on the frontpage.
 
 Terms of Usage / CC:
 Attribution 4.0 International (CC BY 4.0)
